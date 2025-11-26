@@ -1,0 +1,16 @@
+/bin/
+/build/
+/out/
+/target/
+*.class
+*.log
+
+# VSCode / IntelliJ / NetBeans configs
+.vscode/
+.idea/
+*.iml
+nbproject/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
