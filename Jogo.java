@@ -1,5 +1,5 @@
 
-package Mokey_Tycoon;
+package Monkey_Tycoon;
 
 public class Jogo {
     public static void main(String[] args){

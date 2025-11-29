@@ -1,4 +1,4 @@
-package Mokey_Tycoon;
+package Monkey_Tycoon;
 
 public class Macacos {
     String Nome;
@@ -15,19 +15,19 @@ public class Macacos {
         this.Fichas=Func.gerarRandom(10-5+1)+5;
         this.Habilidade=Habilidade;
     }
-    void Apostar(){
+    public void Apostar(){
 
     }
-    void Treinar(){
+    public void Treinar(){
 
     }
-    void Comer(){
+    public void Comer(){
 
     }
-    void Dormir(){
+    public void Dormir(){
 
     }
-    void InfoMacaco(){
+    public void InfoMacaco(){
         System.out.println("Nome: "+Nome);
         System.out.println("Idade: "+Idade);
         System.out.println("Energia: "+Energia);

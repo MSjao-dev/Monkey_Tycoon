@@ -1,4 +1,4 @@
-package Mokey_Tycoon;
+package Monkey_Tycoon.Itens;
 
 public class Item {
     String Nome;
